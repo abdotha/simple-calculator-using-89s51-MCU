@@ -1,0 +1,1 @@
+"CALC.asm" SET (SMALL) DEBUG PRINT(.\Listings\CALC.lst) OBJECT(.\Objects\CALC.obj) EP
